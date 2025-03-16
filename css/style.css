@@ -43,7 +43,7 @@ h1{
   }
 
 #block-1{
-    background-image: url("/images/rooms.webp");
+    background-image: URL("../images/rooms.webp");
     align-items: center;
     height: 100%;
     width: 100%;
